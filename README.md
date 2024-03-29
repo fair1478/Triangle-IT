@@ -2,6 +2,13 @@
 
 Visit page : [https://fair1478.github.io/Triangle-IT/](https://fair1478.github.io/Triangle-IT/)
 
+## Made by
+
+- 64011100	นางสาวฐิตาพร หลงจิ
+- 64011225	นายภัทรดนัย คำสวน
+- 64011308	นางสาวสุพิชชา พูลศิริ
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup

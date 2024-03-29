@@ -21,6 +21,16 @@ import InputForm from "./components/InputForm.vue";
   <main>
     <InputForm />
   </main>
+
+  <footer>
+    <p>Assignment in IT Entrepreneurship And Management 2566</p>
+    <p>
+      Made with ❤️ by
+      <a href="https://github.com/fair1478/Triangle-IT"
+        >64011100, 64011225, 64011308</a
+      >
+    </p>
+  </footer>
 </template>
 
 <style scoped>
@@ -31,6 +41,11 @@ header {
 .logo {
   display: block;
   margin: 0 auto 2rem;
+}
+
+footer {
+  margin-top: 2rem;
+  text-align: center;
 }
 
 @media (min-width: 1024px) {
