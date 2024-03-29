@@ -1,5 +1,7 @@
 # Triangle-IT
 
+Visit page : [https://fair1478.github.io/Triangle-IT/](https://fair1478.github.io/Triangle-IT/)
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
